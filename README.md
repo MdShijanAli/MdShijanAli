@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**freelancershijan/freelancershijan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Md Shijan Ali as A Professional Mern Stack Web Developer. I have worked and studied in this field last 2 years. I have completed some full-stack applications using Mern Stack Truck. I'm a student of Mechanical Engineering. But I loved Coding. So I moved into this field. I also worked in WordPress last 2 years for some international Companies on Fiverr I include here my skills: -
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Html
+👉 CSS
+👉 Bootstrap
+👉 Tailwindcss
+👉 Javascript
+👉 jQuery
+👉 React.js
+👉 Node.js
+👉 Express.js
+👉 MongoDB
+👉 Authentication
+👉 Git and GitHub
+👉 WordPress
+👉 Shopify etc.
