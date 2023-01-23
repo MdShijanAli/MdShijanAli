@@ -92,22 +92,5 @@ I'm Md Shijan Ali as A Professional Front End Developer. I have studied & worked
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=freelancershijan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-
-  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
