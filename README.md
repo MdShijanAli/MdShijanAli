@@ -16,3 +16,5 @@ I'm Md Shijan Ali as A Professional Mern Stack Web Developer. I have worked and 
 👉 Git and GitHub
 👉 WordPress
 👉 Shopify etc.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
