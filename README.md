@@ -4,7 +4,7 @@
 
 ## 🔧 Technical Proficiency:
 
-## 👉 Frontend: HTML, CSS, Bootstrap, Tailwind CSS,
+### 👉 Frontend: HTML, CSS, Bootstrap, Tailwind CSS,
 ## 👉 JavaScript Frameworks: ReactJS, VueJS, NuxtJS, jQuery<br>
 ## 👉 Backend:
 NodeJS, ExpressJS
