@@ -5,9 +5,8 @@
 ## 🔧 Technical Proficiency:
 
 ### 👉 Frontend: HTML, CSS, Bootstrap, Tailwind CSS,
-## 👉 JavaScript Frameworks: ReactJS, VueJS, NuxtJS, jQuery<br>
-## 👉 Backend:
-NodeJS, ExpressJS
+#### 👉 JavaScript Frameworks: ReactJS, VueJS, NuxtJS, jQuery<br>
+##### 👉 Backend: NodeJS, ExpressJS
 ## 👉 Databases: MongoDB, MySQL, PostgreSQL
 ## 👉 ORM: Prisma
 ## 👉 GraphQL and PHP: Leveraging the power of modern technologies
