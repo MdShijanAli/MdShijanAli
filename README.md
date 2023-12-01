@@ -56,6 +56,7 @@ As a Mechanical Engineering student turned coder, I bring a unique blend of anal
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MdShijanAli&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+### 👁 Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{MdShijanAli}/count.svg)
 
 
