@@ -2,37 +2,37 @@
 🚀 Md Shijan Ali - Expert Full Stack Web Developer<br><br>Greetings! I am Md Shijan Ali, a seasoned Full Stack Web Developer with a relentless passion for coding and a unique background in Mechanical Engineering. Over the past 3 years, I've dedicated myself to the world of web development, successfully merging my analytical skills with a love for coding.
 
 
-## 🔧 Technical Proficiency:
+### 🔧 Technical Proficiency:
 
-### 👉 Frontend: HTML, CSS, Bootstrap, Tailwind CSS,
+#### 👉 Frontend: HTML, CSS, Bootstrap, Tailwind CSS,
 #### 👉 JavaScript Frameworks: ReactJS, VueJS, NuxtJS, jQuery<br>
-##### 👉 Backend: NodeJS, ExpressJS
-## 👉 Databases: MongoDB, MySQL, PostgreSQL
-## 👉 ORM: Prisma
-## 👉 GraphQL and PHP: Leveraging the power of modern technologies
-## 👉 Authentication: Secure user authentication implementation
-## 👉 Version Control: Git and GitHub
-## 👉 Deployment Platforms: Vercel, Netlify, Heroku, Firebase
-## 👉 Authentication: JWT (JSON Web Tokens)
-## 👉 CMS: WordPress, Shopify (E-commerce expertise)
+#### 👉 Backend: NodeJS, ExpressJS
+#### 👉 Databases: MongoDB, MySQL, PostgreSQL
+#### 👉 ORM: Prisma
+#### 👉 GraphQL and PHP: Leveraging the power of modern technologies
+#### 👉 Authentication: Secure user authentication implementation
+#### 👉 Version Control: Git and GitHub
+#### 👉 Deployment Platforms: Vercel, Netlify, Heroku, Firebase
+#### 👉 Authentication: JWT (JSON Web Tokens)
+#### 👉 CMS: WordPress, Shopify (E-commerce expertise)
 
-## 🛠️ Full Stack Mastery:
+### 🛠️ Full Stack Mastery:
 
 Specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack, I bring a holistic approach to web development. From crafting visually appealing frontends to ensuring robust backend functionality and seamless database management, my expertise covers the entire spectrum of full-stack development.
 
-## 🌐 Web Development Wizardry:
+### 🌐 Web Development Wizardry:
 
 The hallmark of my work lies in successfully delivering full-stack applications that not only meet but exceed expectations. I prioritize creating responsive, user-friendly, and feature-rich websites that leave a lasting impression.
 
-## 💼 Freelance Experience:
+### 💼 Freelance Experience:
 
 Having collaborated with international companies, I understand the importance of delivering high-quality work within deadlines. My clients appreciate my attention to detail, clear communication, and commitment to exceeding their expectations.
 
-## 🌟 Let's Build Something Exceptional:
+### 🌟 Let's Build Something Exceptional:
 
 Whether you're looking for a sleek website, a powerful web application, or WordPress customization, I am here to turn your ideas into reality. Let's collaborate and create something extraordinary together!
 
-## 📈 Continuous Learning and Growth:
+### 📈 Continuous Learning and Growth:
 
 As a Mechanical Engineering student turned coder, I bring a unique blend of analytical thinking and creative problem-solving to every project. My journey into web development is fueled by a genuine love for coding, and I constantly seek opportunities to expand my skill set.<br><br>Connect with me to embark on a digital journey that transforms your vision into a captivating online presence.
 
