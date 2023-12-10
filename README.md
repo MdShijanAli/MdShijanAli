@@ -14,7 +14,7 @@
 #### 👉 Version Control: Git and GitHub
 #### 👉 Deployment Platforms: Vercel, Netlify, Heroku, Firebase
 #### 👉 Authentication: JWT (JSON Web Tokens)
-#### 👉 CMS: WordPress, Shopify (E-commerce expertise)
+#### 👉 CMS: WordPress, Shopify (E-commerce expertise), Wix
 
 ### 🛠️ Full Stack Mastery:
 
