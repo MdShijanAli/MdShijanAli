@@ -13,7 +13,7 @@
 #### 👉 Authentication: Secure user authentication implementation
 #### 👉 Version Control: Git and GitHub
 #### 👉 Deployment Platforms: Vercel, Netlify, Heroku, Firebase
-#### 👉 Authentication: JWT (JSON Web Tokens)
+#### 👉 Authentication: JWT (JSON Web Tokens), Nuxt Auth, Next Auth
 #### 👉 CMS: WordPress, Shopify (E-commerce expertise), Wix
 
 ### 🛠️ Full Stack Mastery:
