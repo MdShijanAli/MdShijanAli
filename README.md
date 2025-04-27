@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Md Shijan Ali - Expert Jr. Software Engineer<br><br>Greetings! I am Md Shijan Ali, a seasoned Full Stack Web Developer with a relentless passion for coding and a unique background in Mechanical Engineering. Over the past 4+ years, I've dedicated myself to the world of web development and Software Development, successfully merging my analytical skills with a love for coding.
+🚀 Md Shijan Ali - Expert Software Engineer<br><br>Greetings! I am Md Shijan Ali, a seasoned Full Stack Web Developer with a relentless passion for coding and a unique background in Mechanical Engineering. Over the past 4+ years, I've dedicated myself to the world of web development and Software Development, successfully merging my analytical skills with a love for coding.
 
 
 ### 🔧 Technical Proficiency:
